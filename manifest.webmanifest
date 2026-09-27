@@ -1,0 +1,16 @@
+{
+  "name": "손흙",
+  "short_name": "손흙",
+  "description": "손으로 빚는 3D 흙놀이",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3ebe0",
+  "theme_color": "#f3ebe0",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
